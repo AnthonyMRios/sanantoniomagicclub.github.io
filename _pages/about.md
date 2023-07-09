@@ -25,7 +25,7 @@ Please note we are not affiliated with either of these parking lots.
 
 ## Membership
 
-Being a member of the SAM 052 Brother John Hamman magic club is an exciting and rewarding experience for anyone with a passion for the art of magic. As a member, you become part of a vibrant community of like-minded individuals who share your enthusiasm for the mystifying world of illusion.
+Being a member of the SAM 52 Brother John Hamman magic club is an exciting and rewarding experience for anyone with a passion for the art of magic. As a member, you become part of a vibrant community of like-minded individuals who share your enthusiasm for the mystifying world of illusion.
 
 *You can attend 2 free meetings* without any questions or obligations before joining the club to see if our local magic community is a fit for you. To become a member you first need to join the [Society of American Magicians](https://www.magicsam.com/), then you will pay the local chapter/club dues, which is $30 dollars per year. 
 
