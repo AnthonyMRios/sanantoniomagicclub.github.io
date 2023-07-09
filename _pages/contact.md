@@ -5,11 +5,10 @@ description:
 featured_image: /images/demo/about.jpg
 ---
 
-If you are interested in the club, you can contact XXX via email at abc 'at' gmail 'dot' com. Likewise, you can reach out via [Facebook](https://www.facebook.com/groups/SAMagician) or [Instagram](https://www.instagram.com/magicsanantonio).
+If you are interested in the club, you can contact Anthony Rios via email at anthonymrios 'at' gmail 'dot' com. Likewise, you can reach out via [Facebook](https://www.facebook.com/groups/SAMagician) or [Instagram](https://www.instagram.com/magicsanantonio).
 
-## Officers
-
-- President
-- Vice President
-- Secretary and Treasurer
-- Sargent at Arms
+Officers:
+- President: Curt Parsons
+- Vice President: Scott Pepper
+- Secretary / Treasurer: Ted Barlock and Bill Winters
+- Sergeant at Arms: Frank Greer

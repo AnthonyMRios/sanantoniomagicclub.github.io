@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: SAM 052 San Antonio
+  site_title: SAM 52 San Antonio
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: SAM 052 Brother John Hamman Magic Club
+  footer_tagline: SAM 52 Brother John Hamman Magic Club
 
 grid_settings:
   overlay_opacity: 0.8
