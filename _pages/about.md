@@ -1,12 +1,12 @@
 ---
 title: About
 subtitle: 
-description: SAM 052 Brother John Hamman Club
+description: SAM 52 Brother John Hamman Club
 featured_image: /images/demo/members.jpeg
 ---
 
 
-The SAM 052 Brother John Hamman magic club is a hub for magicians, both amateur and professional, throughout the San Antonio area. Our club provides a warm and inclusive environment where magicians of all skill levels can gather, exchange ideas, learn from one another, and share their passion for the art form.
+The SAM 52 Brother John Hamman magic club is a hub for magicians, both amateur and professional, throughout the San Antonio area. Our club provides a warm and inclusive environment where magicians of all skill levels can gather, exchange ideas, learn from one another, and share their passion for the art form.
 
 Whether you are a seasoned performer, an aspiring magician, or simply someone who appreciates the art, the San Antonio of American Magicians club has something for you. Our regular meetings feature engaging lectures, interactive workshops, and performances by accomplished magicians. We encourage active participation, providing a platform for members to showcase their talents, receive constructive feedback, and grow in their craft.
 
