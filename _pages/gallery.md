@@ -21,11 +21,11 @@ featured_image: /images/demo/members.jpeg
 	<img src="/images/demo/meeting7.jpeg">
 	<img src="/images/demo/meeting8.jpeg">
 	<img src="/images/demo/meeting9.jpeg">
-	<img src="/images/demo/meeting10.jpeg">
-	<img src="/images/demo/meeting11.jpeg">
-	<img src="/images/demo/meeting12.jpeg">
-	<img src="/images/demo/meeting13.jpeg">
-	<img src="/images/demo/meeting14.jpeg">
+	<img src="/images/demo/meeting10.jpg">
+	<img src="/images/demo/meeting11.jpg">
+	<img src="/images/demo/meeting12.jpg">
+	<img src="/images/demo/meeting13.jpg">
+	<img src="/images/demo/meeting14.jpg">
 	<img src="/images/demo/members.jpeg">
 	<img src="/images/demo/club1.png">
 </div>
