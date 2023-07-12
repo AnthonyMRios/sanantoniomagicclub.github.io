@@ -5,7 +5,7 @@ description:
 featured_image: /images/demo/about.jpg
 ---
 
-If you are interested in the club, you can contact Curt Parsons at parsons.curt 'at' gmail 'dot' com. Likewise, you can reach out via [Facebook](https://www.facebook.com/groups/SAMagician) or [Instagram](https://www.instagram.com/magicsanantonio).
+If you are interested in the club, you can contact Curt Parsons at <a href="mailto: parsons.curt@gmail.com">parsons.curt@gmail.com</a>. Likewise, you can reach out via [Facebook](https://www.facebook.com/groups/SAMagician) or [Instagram](https://www.instagram.com/magicsanantonio).
 
 ## Officers
 - President: Curt Parsons
